@@ -2,6 +2,10 @@
 Welcome to my Java card game!
 This is my first game working with visuals in Java. This is a game of comparing cards and accumulating score.
 
+1. Extract image folder from images.zip
+2. Compile Java files in src folder
+3. Run CardGame.java to launch the game!
+
 To play, drag two cards from either deck into two slots.
 The cards are then compared according to the rules laid out in the menu...
 
