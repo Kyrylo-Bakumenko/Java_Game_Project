@@ -1,6 +1,4 @@
-# Java Card Game
-
-## Welcome to my Java card game!
+# Welcome to my Java card game!
 This is my first game working with visuals in Java.
 This is a game of comparing cards and accumulating score.
 
