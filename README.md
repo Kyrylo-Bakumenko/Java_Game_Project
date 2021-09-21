@@ -1,6 +1,8 @@
 # Java Card Game
-Welcome to my Java card game!
-This is my first game working with visuals in Java. This is a game of comparing cards and accumulating score.
+
+## Welcome to my Java card game!
+This is my first game working with visuals in Java.
+This is a game of comparing cards and accumulating score.
 
 1. Extract image folder from images.zip
 2. Compile Java files in src folder
